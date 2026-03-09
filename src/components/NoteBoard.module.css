@@ -1,0 +1,18 @@
+.board {
+  margin-top: 30px;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.form input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+.notesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
